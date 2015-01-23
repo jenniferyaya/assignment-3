@@ -24,9 +24,59 @@ a:hover {
 	color: #af1f24;
 }
 
-h2 {
+h2, h3,h4 {
 	font-weight: bold;
 	color: #030356;
 	font-family: "Merriweather", serif;
 	font-size: 2rem;
+	line-height: .5;
+}
+
+p {
+	font-family: "Muli", sans-serif;
+	font-size: .50;
+}
+
+.listtwo {
+	list-style-type: lower-roman;
+}
+
+.celestial {
+	color: #030356;
+}
+
+.rounded {
+	color: #030356;
+}
+
+.citation {
+	color: #030356;
+	font-size: .5rem;
+	font-family: "Muli", sans-serif;
+	line-height: .5;
+}
+
+.quotemarks {
+	font-size: 2.5rem;
+	color: #030356;
+}
+
+.quotation {
+	font-family: "Merriweather", serif;
+	font-style: italic;
+	font-size: 1.5rem;
+	line-height: .25;
+}
+
+.unfortunately {
+	font-style: italic;
+	font-family: "Muli", sans-serif;
+}
+
+.imgcaption {
+	font-style: italic;
+}
+
+dt {
+	font-weight: bold;
 }
